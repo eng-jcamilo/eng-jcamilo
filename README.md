@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Connect with me:
-[<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
+[<img align="left" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
 
 <!--
 <br />
